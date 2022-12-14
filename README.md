@@ -8,3 +8,20 @@ Calculadora de reembolso de despesas em homeoffice
 - Docker
 - GIT
 
+# Guia
+- Webservices
+- Rest
+- JSON
+
+# Boas praticas
+- Paginar a pesquisa.
+- Configurar filtros.
+- Seperar o recursos.
+- Tolerante a falhas.
+- Tentar manter cache de infomaçoes muito resuisitadas.
+- Timeouts.
+- Documentar !!!
+- Teste e validaçao.
+- I18n
+- Limitar campos.
+-
