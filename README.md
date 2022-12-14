@@ -2,6 +2,9 @@
 Calculadora de reembolso de despesas em homeoffice
 
 # Tecnologias
-- Spring boot
+- Spring tools 4
 - Mysql
 - Maven
+- Docker
+- GIT
+
