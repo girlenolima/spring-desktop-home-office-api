@@ -7,7 +7,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Maven
 - Docker
 - GIT
-- Windows..
+- Windows...
 - Postman
 
 # Guia
