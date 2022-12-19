@@ -4,11 +4,13 @@ Calculadora de reembolso de despesas em homeoffice
 # Tecnologias
 - Spring tools 4
 - Mysql
-- Gradlew
+- Mavem
 - Docker
 - GIT
 - Windows...
 - Postman
+- Dozer
+- Hibernate
 
 # Guia
 - Webservices
