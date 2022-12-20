@@ -14,10 +14,11 @@ Calculadora de reembolso de despesas em homeoffice
 - Flyway
 - Swagger
 
-# Guia
+# Conceitos
 - Webservices
 - Rest
 - JSON
+- Evolutionary Database Design
 
 # Boas praticas
 - Paginar a pesquisa.
