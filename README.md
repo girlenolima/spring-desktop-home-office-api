@@ -11,7 +11,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Postman
 - Dozer
 - Hibernate
-- Flyway
+- Flyway (migrations)
 - Swagger
 - AWS
 
