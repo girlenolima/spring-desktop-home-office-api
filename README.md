@@ -13,6 +13,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Hibernate
 - Flyway
 - Swagger
+- AWS
 
 # Conceitos
 - Webservices
