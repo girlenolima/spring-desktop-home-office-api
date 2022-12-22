@@ -21,7 +21,8 @@ Calculadora de reembolso de despesas em homeoffice
 - JSON
 - Evolutionary Database Design - Versionamento de BD.
 - Content Negotiation - (JSON / XML ...)
-    > content negotiation is the mechanism that is used for serving different representations of a resource to the same URI to help the user agent specify which representation is best suited for the user 
+    > Content negotiation is the mechanism that is used for serving different representations of a resource to the same URI to help the user agent specify which representation is best suited for the user 
+    
     > É capacidade de um servidor rest disponibilizar diferentes versoes do mesmo objeto para atender o cliente de uma forma especifica. Exp: disponilizar umas lista em diferente formatos : HTML , JSON, CSV, XML, PDF , PNG ...
 
 # Boas praticas
