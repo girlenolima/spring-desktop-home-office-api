@@ -20,6 +20,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Rest
 - JSON
 - Evolutionary Database Design - Versionamento de BD.
+- Content Negotiation - (JSON / XML ...)
 
 # Boas praticas
 - Paginar a pesquisa.
