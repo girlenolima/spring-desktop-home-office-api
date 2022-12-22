@@ -1,7 +1,7 @@
 # Desktop Home office API
 Calculadora de reembolso de despesas em homeoffice
 
-# Tecnologias
+# Technologies
 - Spring tools 4
 - Mysql
 - Mavem
@@ -15,7 +15,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Swagger
 - AWS
 
-# Conceitos
+# Concepts 
 - Webservices
 - Rest
 - JSON
@@ -25,15 +25,15 @@ Calculadora de reembolso de despesas em homeoffice
     
     > É capacidade de um servidor rest disponibilizar diferentes versoes do mesmo objeto para atender o cliente de uma forma especifica. Exp: disponilizar umas lista em diferente formatos : HTML , JSON, CSV, XML, PDF , PNG ...
 
-# Boas praticas
-- Paginar a pesquisa.
-- Configurar filtros.
-- Seperar o recursos.
-- Tolerante a falhas.
-- Tentar manter cache de infomaçoes muito resuisitadas.
+# Good habits
+- Paginate search.
+- Configure filters.
+- Separate the resources.
+- Fault tolerant.
+- Try to keep cache of very reused information.
 - Timeouts.
-- Documentar !!!
-- Teste e validaçao.
+- Document !!!
+- Test and validation.
 - I18n
-- Limitar campos.
+- Limit fields.
 
