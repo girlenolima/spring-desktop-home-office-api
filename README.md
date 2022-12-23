@@ -1,3 +1,12 @@
+![Girleno Lima stats](https://github-readme-stats.vercel.app/api?username=girlenolima&show_icons=true&theme=dracula&locale=pt-br&count_private=true)
+
+
+
+
+
+
+
+
 # Desktop Home office API
 Calculadora de reembolso de despesas em homeoffice
 
@@ -8,7 +17,7 @@ Calculadora de reembolso de despesas em homeoffice
     
     > 🇧🇷 Spring Tools 4 (ou simplemente STS) é basicamente um plugin criado exclusivamente para o framework web Java Spring que tem suporte para o ambientes Eclipse, Visual Studio Code e Theia. 
 
-    >> ![Spring](https://img.shields.io/website?label=Referencia&style=for-the-badge&url=https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.)
+     [![Spring](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.)
 
     
  - ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,5 +59,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Limit fields.
 
 
-https://emojipedia.org/
-https://dev.to/envoy_/150-badges-for-github-pnk
+###  deletar depois
+- https://emojipedia.org/
+- https://dev.to/envoy_/150-badges-for-github-pnk
+- https://readme.so/pt/editor
