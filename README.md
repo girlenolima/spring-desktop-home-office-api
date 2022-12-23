@@ -15,6 +15,7 @@ Calculadora de reembolso de despesas em homeoffice
 - Flyway (migrations)
 - Swagger
 - AWS
+- HeidiSQL
 
 # Concepts 
 - Webservices
