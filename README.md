@@ -4,7 +4,13 @@ Calculadora de reembolso de despesas em homeoffice
 
 # Technologies
 - Spring tools 4
-    > Spring Tools 4 (ou simplemente STS) é basicamente um plugin criado exclusivamente para o framework web Java Spring que tem suporte para o ambientes Eclipse, Visual Studio Code e Theia. [Referencia](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.).
+    > Spring Tools 4 (or simply STS) is basically a plugin created exclusively for the Spring Java web framework that supports Eclipse, Visual Studio Code and Theia environments.
+
+    >Spring Tools 4 (ou simplemente STS) é basicamente um plugin criado exclusivamente para o framework web Java Spring que tem suporte para o ambientes Eclipse, Visual Studio Code e Theia. 
+    
+    >> [Referencia](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.).
+
+    
 - Mysql
 - Mavem
 - Docker
