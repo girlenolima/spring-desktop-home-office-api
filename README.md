@@ -32,13 +32,13 @@ Calculadora de reembolso de despesas em homeoffice
 - Rest
     > 🌎 REST (Representational State Transfer) is an architectural model, not a programming language or technology, that provides guidelines for distributed systems to communicate directly using existing Web principles and protocols without the need for SOAP or other sophisticated protocol.
     
-    > REST(Representational State Transfer, que significa Transferência Representacional de Estado) é um modelo de arquitetura e não uma linguagem ou tecnologia de programação, que fornece diretrizes para que os sistemas distribuídos se comuniquem diretamente usando os princípios e protocolos existentes da Web sem a necessidade de SOAP ou outro protocolo sofisticado.
+    > 📗 REST(Representational State Transfer, que significa Transferência Representacional de Estado) é um modelo de arquitetura e não uma linguagem ou tecnologia de programação, que fornece diretrizes para que os sistemas distribuídos se comuniquem diretamente usando os princípios e protocolos existentes da Web sem a necessidade de SOAP ou outro protocolo sofisticado.
 - JSON
 - Evolutionary Database Design - Versionamento de BD.
 - Content Negotiation - (JSON / XML ...)
     > 🌎 Content negotiation is the mechanism that is used for serving different representations of a resource to the same URI to help the user agent specify which representation is best suited for the user 
     
-    > É capacidade de um servidor rest disponibilizar diferentes versoes do mesmo objeto para atender o cliente de uma forma especifica. Exp: disponilizar umas lista em diferente formatos : HTML , JSON, CSV, XML, PDF , PNG ...
+    > 📗 É capacidade de um servidor rest disponibilizar diferentes versoes do mesmo objeto para atender o cliente de uma forma especifica. Exp: disponilizar umas lista em diferente formatos : HTML , JSON, CSV, XML, PDF , PNG ...
 
 # Good habits
 - Paginate search.
