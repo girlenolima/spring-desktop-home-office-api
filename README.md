@@ -9,15 +9,12 @@ Calculadora de reembolso de despesas em homeoffice
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
     >🌎 Spring Tools 4 (or simply STS) is basically a plugin created exclusively for the Spring Java web framework that supports Eclipse, Visual Studio Code and Theia environments.
     
-    > 🇧🇷 Spring Tools 4 (ou simplemente STS) é basicamente um plugin criado exclusivamente para o framework web Java Spring que tem suporte para o ambientes Eclipse, Visual Studio Code e Theia. 
+    >📗 Spring Tools 4 (ou simplemente STS) é basicamente um plugin criado exclusivamente para o framework web Java Spring que tem suporte para o ambientes Eclipse, Visual Studio Code e Theia. 
 
      [![Spring](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.)
-
-    
+   
 - ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
 - ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- Hibernate
 - ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
@@ -29,6 +26,8 @@ Calculadora de reembolso de despesas em homeoffice
 - Flyway (migrations)
 - Maven
 - GIT
+- Docker
+- Hibernate
 
 # Concepts 
 - Webservices
