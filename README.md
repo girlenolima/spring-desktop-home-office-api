@@ -8,21 +8,27 @@ Calculadora de reembolso de despesas em homeoffice
     >🌎 Spring Tools 4 (or simply STS) is basically a plugin created exclusively for the Spring Java web framework that supports Eclipse, Visual Studio Code and Theia environments.
     
     >📗 Spring Tools 4 (ou simplemente STS) é basicamente um plugin criado exclusivamente para o framework web Java Spring que tem suporte para o ambientes Eclipse, Visual Studio Code e Theia. 
-
-     [![Spring](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.)
-   
+ 
 - ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     >🌎 MySQL is a Relational Database Management Systems (RDBMS) with a client-server model. RDBMS is open source software or service used in creating and managing databases based on relational model. Now let's analyze each term.
     
     >📗 MySQL é um Banco de Dados relacional (RDBMS – Relational Database Management Systems) com um modelo de cliente-servidor. RDBMS é um software de código aberto ou serviço usado na criação e gerenciamento de bancos de dados baseados no modelo relacional. Agora vamos analisar cada termo.
 
-    [![MySQL](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
+- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+    >🌎 Java framework for object-relational mapping best known in the market. Its main function is to abstract the mapping, saving effort and concerns concerning such a task.
+    
+    >📗  Framework Java para mapeamento objeto relacional mais conhecido no mercado. Sua principal função é abstrair o mapeamento, economizando esforço e preocupações concernentes a tal tarefa. 
+
+- ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+     >🌎 Amazon Web Services, also known as AWS, is a platform of cloud computing services, which form a cloud computing platform offered by Amazon.com. Services are offered in various geographic areas around the world.
+    
+    >📗  Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.com. Os serviços são oferecidos em várias áreas geográficas distribuídas pelo mundo.
 
 - ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    >🌎 Deciding to use the windows environment to start a project was just a matter of taste.
+    
+    >📗  Decidir utilizar o ambiente windows para iniciar um projeto foi apenas uma questao de gosto.
 
-
-https://www.hostinger.com.br/tutoriais/o-que-e-mysql
 
 # Supporting Technologies
 - HeidiSQL
