@@ -1,17 +1,11 @@
 ![Girleno Lima stats](https://github-readme-stats.vercel.app/api?username=girlenolima&show_icons=true&theme=dracula&locale=pt-br&count_private=true)
 
 
-
-
-
-
-
-
 # Desktop Home office API
 Calculadora de reembolso de despesas em homeoffice
 
 
-# Technologies
+# Main technologies
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
     >🌎 Spring Tools 4 (or simply STS) is basically a plugin created exclusively for the Spring Java web framework that supports Eclipse, Visual Studio Code and Theia environments.
     
@@ -20,18 +14,21 @@ Calculadora de reembolso de despesas em homeoffice
      [![Spring](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.)
 
     
- - ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- Mavem
-- Docker
-- ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
 - ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- Hibernate
+- ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+# Supporting Technologies
+- HeidiSQL
 - Postman
 - Dozer
-- Hibernate
-- Flyway (migrations)
 - Swagger
-- ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- HeidiSQL
+- Flyway (migrations)
+- Maven
+- GIT
 
 # Concepts 
 - Webservices
@@ -63,3 +60,4 @@ Calculadora de reembolso de despesas em homeoffice
 - https://emojipedia.org/
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://readme.so/pt/editor
+- https://devicon.dev/
