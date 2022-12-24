@@ -12,9 +12,17 @@ Calculadora de reembolso de despesas em homeoffice
      [![Spring](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://diegofernando.dev/adicionando-eclipse-spring-tools-4-lancador-ubuntu.html#:~:text=J%C3%A1%20o%20Spring%20Tools%204,Visual%20Studio%20Code%20e%20Theia.)
    
 - ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    >🌎 MySQL is a Relational Database Management Systems (RDBMS) with a client-server model. RDBMS is open source software or service used in creating and managing databases based on relational model. Now let's analyze each term.
+    
+    >📗 MySQL é um Banco de Dados relacional (RDBMS – Relational Database Management Systems) com um modelo de cliente-servidor. RDBMS é um software de código aberto ou serviço usado na criação e gerenciamento de bancos de dados baseados no modelo relacional. Agora vamos analisar cada termo.
+
+    [![MySQL](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=Referencia&style=for-the-badge&url=https://limas.dev/)](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
+
 - ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
+https://www.hostinger.com.br/tutoriais/o-que-e-mysql
 
 # Supporting Technologies
 - HeidiSQL
