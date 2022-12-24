@@ -1,5 +1,3 @@
-![Girleno Lima stats](https://github-readme-stats.vercel.app/api?username=girlenolima&show_icons=true&theme=dracula&locale=pt-br&count_private=true)
-
 
 # Desktop Home office API
 Calculadora de reembolso de despesas em homeoffice
