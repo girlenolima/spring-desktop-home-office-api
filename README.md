@@ -54,6 +54,15 @@ Calculadora de reembolso de despesas em homeoffice
     > 📗 JSON (JavaScript Object Notation) é uma linguagem de marcação leve que permite armazenar e transmitir dados estruturados em forma de texto. É amplamente utilizada em aplicativos web para trocar dados entre um servidor e um aplicativo cliente, como um navegador web.
 
 - Evolutionary Database Design - Versionamento de BD.
+   > 🌎 Database design project that emphasizes gradual and incremental adaptation of the database design to changes in business needs and application use. In contrast to traditional database design, which tends to be planned and implemented all at once, evolutionary database design is built incrementally, with frequent and iterative changes to the database design as the project evolves.
+  
+    > 📗  Projeto de banco de dados que enfatiza a adaptação gradual e incremental do design do banco de dados às mudanças nas necessidades de negócio e no uso da aplicação. Em oposição ao projeto de banco de dados tradicional, que tende a ser planejado e implementado de uma só vez, o projeto de banco de dados evolutivo é construído de forma incremental, com mudanças frequentes e iterativas no design do banco de dados à medida que o projeto evolui.
+
+
+
+
+
+
 - Content Negotiation - (JSON / XML ...)
     > 🌎 Content negotiation is the mechanism that is used for serving different representations of a resource to the same URI to help the user agent specify which representation is best suited for the user 
     
