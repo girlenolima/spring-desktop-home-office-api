@@ -86,3 +86,4 @@ Calculadora de reembolso de despesas em homeoffice
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://readme.so/pt/editor
 - https://devicon.dev/
+- mvn clean package spring-boot:run -DskipTests (limpar projeto sem executar testes)
