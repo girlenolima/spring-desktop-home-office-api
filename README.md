@@ -41,7 +41,9 @@ Calculadora de reembolso de despesas em homeoffice
 - Docker
 - Hibernate
 
-# Concepts 
+
+
+# Concepts and Architectures
 - Webservices
 - Rest
     > 🌎 REST (Representational State Transfer) is an architectural model, not a programming language or technology, that provides guidelines for distributed systems to communicate directly using existing Web principles and protocols without the need for SOAP or other sophisticated protocol.
@@ -58,15 +60,19 @@ Calculadora de reembolso de despesas em homeoffice
   
     > 📗  Projeto de banco de dados que enfatiza a adaptação gradual e incremental do design do banco de dados às mudanças nas necessidades de negócio e no uso da aplicação. Em oposição ao projeto de banco de dados tradicional, que tende a ser planejado e implementado de uma só vez, o projeto de banco de dados evolutivo é construído de forma incremental, com mudanças frequentes e iterativas no design do banco de dados à medida que o projeto evolui.
 
-
-
-
-
-
 - Content Negotiation - (JSON / XML ...)
     > 🌎 Content negotiation is the mechanism that is used for serving different representations of a resource to the same URI to help the user agent specify which representation is best suited for the user 
     
     > 📗 É capacidade de um servidor rest disponibilizar diferentes versoes do mesmo objeto para atender o cliente de uma forma especifica. Exp: disponilizar umas lista em diferente formatos : HTML , JSON, CSV, XML, PDF , PNG ...
+        
+- Hateoas  - Hypermedia As the Engine Of Application
+     > 🌎 HATEOAS is an important concept in the development of REST (Representational State Transfer) applications. It is based on the idea that a client should be able to navigate the functionality of an application through hypermedia, such as hyperlinks and forms, present in server responses. In understanding, we have that this technology is a restriction that is part of the architecture of REST applications, whose goal is to help clients consume the service without the need for deep prior knowledge of the API. It is the final level of REST.
+
+     > 📗 HATEOAS é um conceito importante no desenvolvimento de aplicações REST (Representational State Transfer). Ele se baseia na ideia de que um cliente deve ser capaz de navegar pelas funcionalidades de uma aplicação através de hipermídia, como hiperlinks e formulários, presentes nas respostas dos servidores. Em entendimento temos que essa tecnlogia é uma estrição que faz parte da arquitetura de aplicações REST, cujo objetivo é ajudar os clientes a consumirem o serviço sem a necessidade de conhecimento prévio profundo da API. É o ultimo nivel do REST.
+
+
+
+
 
 # Good habits
 - Paginate search.
