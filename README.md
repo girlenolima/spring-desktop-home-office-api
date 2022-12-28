@@ -40,6 +40,7 @@ Calculadora de reembolso de despesas em homeoffice
 - GIT
 - Docker
 - Hibernate
+- Mockito
 
 
 
