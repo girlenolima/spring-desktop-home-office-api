@@ -34,7 +34,7 @@ Calculadora de reembolso de despesas em homeoffice
 - HeidiSQL
 - Postman
 - Dozer
-- Swagger
+- Swagger - documentaçao.
 - Flyway (migrations)
 - Maven
 - GIT
