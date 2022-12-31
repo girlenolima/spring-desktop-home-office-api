@@ -94,3 +94,4 @@ Calculadora de reembolso de despesas em homeoffice
 - https://readme.so/pt/editor
 - https://devicon.dev/
 - mvn clean package spring-boot:run -DskipTests (limpar projeto sem executar testes)
+- https://lankydan.dev/documenting-a-spring-rest-api-following-the-openapi-specification
