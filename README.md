@@ -41,6 +41,9 @@ Calculadora de reembolso de despesas em homeoffice
 - Docker
 - Hibernate
 - Mockito
+- Testecontainers (precisa ter Docker instalado) - Teste de integridade.
+- Rest-assured
+
 
 
 
